@@ -1,0 +1,6 @@
+[package]
+name = "labsh"
+version = "0.1.0"
+authors = ["user"]
+
+[dependencies]
